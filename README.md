@@ -1,2 +1,3 @@
 # game-java-Swing
 este es un juego sencillo echo con una GUI y usando threads, Swing ...
+falta terminar el detector de colisiones, restar vidas al jugador, y mediante la matris de clases enemigo aceder al elemento color y cambiarlo a negro cuando algo colisione con este
